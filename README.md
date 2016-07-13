@@ -1,2 +1,4 @@
 # AutoExcel
-Tomcat项目 web端上次excel文件 导入mongodb数据
+tomcat项目 web端上传excel文件读取表格数据 导入mongodb数据
+根据浏览器sessionID缓存上传文件
+quartz定时清理缓存内容
